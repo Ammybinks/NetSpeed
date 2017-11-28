@@ -1,0 +1,9 @@
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\bin\Debug\Test Listmaker.exe.config
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\bin\Debug\Test Listmaker.exe
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\bin\Debug\Test Listmaker.pdb
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\obj\Debug\NetSpeed.csprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\obj\Debug\NetSpeed.Main.resources
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\obj\Debug\Test_Listmaker.Properties.Resources.resources
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\obj\Debug\NetSpeed.csproj.GenerateResource.Cache
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\obj\Debug\Test Listmaker.exe
+D:\Users\nye\Documents\GitHub\NetSpeed\NetSpeed\obj\Debug\Test Listmaker.pdb
